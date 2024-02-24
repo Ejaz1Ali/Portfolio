@@ -2537,7 +2537,7 @@ p.single-soicial-text {
   line-height: 1.1;
   color: #b5b5b5;
   font-weight: 700;
-  text-transform: lowercase !important;
+  text-transform: capitalize !important;
 }
 
 /* .overlay {
