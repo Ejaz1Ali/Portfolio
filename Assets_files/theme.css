@@ -2530,7 +2530,6 @@ p.single-soicial-text {
   border-radius: 12px;
   z-index: 9999999;
 }
-
 .content-card h2 {
   font-size: 2.5rem;
   letter-spacing: 1px;
@@ -2539,7 +2538,6 @@ p.single-soicial-text {
   font-weight: 700;
   text-transform: capitalize !important;
 }
-
 /* .overlay {
         background: black !important;
         position: absolute;
